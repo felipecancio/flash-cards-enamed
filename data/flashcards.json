@@ -1,0 +1,1815 @@
+{
+  "title": "Flashcards de revisão — 200 Casos Clínicos Resolvidos para o Enamed",
+  "sourceFile": "enamed_cases_200_source_for_cursor.json",
+  "sourceVersion": "2026-09-30",
+  "disclaimer": "Material educacional de treino. Este bônus não é apresentado como revisado por médicos.",
+  "schedule": {
+    "missedDays": 1,
+    "unsureDays": 2,
+    "rememberedDays": 7,
+    "nextRememberedDays": 21,
+    "description": "Lembrei segue o acerto: 7 dias na primeira vez e 21 dias nas seguintes. Rever segue o intervalo antigo de dúvida: 2 dias, sem zerar acertos. Registros antigos de erro continuam válidos: dia seguinte e acertos zerados."
+  },
+  "cards": [
+    {
+      "id": "fc-c001",
+      "caseId": 1,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Cetoacidose diabética",
+      "front": "Cetoacidose com potássio de 3,1 mmol/L e reposição volêmica já iniciada. Qual é o próximo passo?",
+      "answer": "Corrigir o potássio antes de iniciar insulina.",
+      "why": "Com potássio de 3,1 mmol/L, a hipocalemia muda a ordem do tratamento.",
+      "decisive": "Cetoacidose confirmada + K = 3,1 mmol/L: a hipocalemia é o dado que determina a sequência.",
+      "rule": "Antes de protocolar insulina na cetoacidose, leia o potássio. O valor pode alterar a ordem do tratamento.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 001 — Volume 01",
+      "source": {
+        "title": "Consenso internacional, crises hiperglicêmicas em adultos (2024)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/"
+      }
+    },
+    {
+      "id": "fc-c002",
+      "caseId": 2,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Infarto com supra de ST",
+      "front": "Dor torácica há 2 horas, com supra de ST em DII, DIII e aVF; a angioplastia primária levaria cerca de 4 horas e não há contraindicação à fibrinólise. Qual é a estratégia inicial?",
+      "answer": "Tenecteplase ou alteplase agora e transferência para hemodinâmica.",
+      "why": "Há 2 horas de dor, sem contraindicação, e a angioplastia só em cerca de 4 horas.",
+      "decisive": "IAM com supra e 2 horas de sintomas; angioplastia primária indisponível na janela recomendada.",
+      "rule": "No IAM com supra, compare tempo de sintomas, tempo até angioplastia e contraindicações à fibrinólise.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 002 — Volume 01",
+      "source": {
+        "title": "European Society of Cardiology, síndrome coronariana aguda (2023)",
+        "url": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/acute-coronary-syndromes/"
+      }
+    },
+    {
+      "id": "fc-c004",
+      "caseId": 4,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "AVC isquêmico agudo",
+      "front": "Afasia e hemiparesia há 90 minutos, com glicemia normal, tomografia sem hemorragia e pressão controlada. Qual é a decisão?",
+      "answer": "Alteplase venoso agora e pesquisar oclusão de grande artéria.",
+      "why": "O déficit é incapacitante, o início é recente e a imagem não mostrou sangramento.",
+      "decisive": "Déficit neurológico incapacitante, início há 90 minutos e ausência de sangramento na imagem.",
+      "rule": "Na suspeita de AVC, registre a hora em que a pessoa foi vista bem pela última vez.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 004 — Volume 01",
+      "source": {
+        "title": "AHA/ASA, Early Management of Acute Ischemic Stroke (2026)",
+        "url": "https://www.stroke.org/en/about-stroke/types-of-stroke/ischemic-stroke-clots/ais-top-things-to-know"
+      }
+    },
+    {
+      "id": "fc-c006",
+      "caseId": 6,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Embolia pulmonar de alto risco",
+      "front": "Dispneia súbita, síncope e PA de 78/46 mmHg, com tromboembolismo pulmonar extenso confirmado, disfunção de ventrículo direito e sem contraindicação a fibrinolítico. Qual é a conduta?",
+      "answer": "Alteplase e heparina não fracionada.",
+      "why": "A hipotensão persistente coloca este tromboembolismo em alto risco.",
+      "decisive": "TEP confirmado com hipotensão persistente caracteriza alto risco.",
+      "rule": "No TEP, hipotensão persistente coloca a reperfusão no centro da decisão.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 006 — Volume 01",
+      "source": {
+        "title": "AHA/ACC, Acute Pulmonary Embolism Guideline (2026)",
+        "url": "https://professional.heart.org/en/science-news/2026-guideline-for-the-evaluation-and-management-of-acute-pulmonary-embolism-in-adults/top-things-to-know"
+      }
+    },
+    {
+      "id": "fc-c007",
+      "caseId": 7,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Taquiarritmia instável",
+      "front": "Fibrilação atrial a 170 bpm, com confusão e PA de 75/42 mmHg. Qual é a conduta imediata?",
+      "answer": "Realizar cardioversão elétrica sincronizada imediatamente.",
+      "why": "Há taquicardia com hipotensão e alteração do estado mental.",
+      "decisive": "Taquiarritmia com hipotensão e alteração do estado mental.",
+      "rule": "Taquicardia + sinais de choque: priorize a intervenção elétrica apropriada.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 007 — Volume 01",
+      "source": {
+        "title": "AHA, Adult Tachyarrhythmia With a Pulse Algorithm (2025)",
+        "url": "https://www.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-ACLS-Tachycardia-250514.pdf"
+      }
+    },
+    {
+      "id": "fc-c008",
+      "caseId": 8,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Hipercalemia grave",
+      "front": "Potássio de 7,2 mmol/L, com QRS alargado e ondas T apiculadas. O que priorizar enquanto se organiza a redução do potássio?",
+      "answer": "Gluconato de cálcio intravenoso, pelo eletrocardiograma alterado.",
+      "why": "O eletrocardiograma mostra alteração ameaçadora.",
+      "decisive": "Hipercalemia acompanhada de alterações eletrocardiográficas ameaçadoras.",
+      "rule": "Na hipercalemia com ECG alterado, cálcio protege; outras medidas baixam o K.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 008 — Volume 01",
+      "source": {
+        "title": "NHS Greater Glasgow and Clyde, Management of Hyperkalaemia",
+        "url": "https://handbook.ggcmedicines.org.uk/guidelines/electrolyte-disturbances/management-of-hyperkalaemia-plasma-k-5-5mmol-l/"
+      }
+    },
+    {
+      "id": "fc-c011",
+      "caseId": 11,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Meningite bacteriana",
+      "front": "Suspeita de meningite bacteriana e a punção do líquor vai atrasar. Qual é a conduta?",
+      "answer": "Hemoculturas e ceftriaxona venosa, sem esperar o líquor.",
+      "why": "A suspeita é forte e o atraso do líquor não pode segurar o antibiótico.",
+      "decisive": "Suspeita forte de meningite com atraso previsto para líquor.",
+      "rule": "Meningite bacteriana suspeita é uma corrida contra o atraso de antibiótico.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 011 — Volume 01",
+      "source": {
+        "title": "NICE, Bacterial Meningitis and Meningococcal Disease",
+        "url": "https://www.nice.org.uk/guidance/ng240/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c012",
+      "caseId": 12,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Hipoglicemia grave",
+      "front": "Glicemia de 34 mg/dL, com confusão, sudorese e deglutição insegura, e há acesso venoso. Qual é a medida inicial?",
+      "answer": "Glicose a 50% intravenosa e reavaliar.",
+      "why": "A consciência está alterada e a via oral não é segura.",
+      "decisive": "Hipoglicemia sintomática com alteração mental e deglutição insegura.",
+      "rule": "Na hipoglicemia, a consciência define a via de administração do carboidrato.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 012 — Volume 01",
+      "source": {
+        "title": "ADA, Standards of Care: Diabetes Care in the Hospital (2026)",
+        "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S339/163925/16-Diabetes-Care-in-the-Hospital-Standards-of-Care"
+      }
+    },
+    {
+      "id": "fc-c013",
+      "caseId": 13,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Anafilaxia",
+      "front": "Urticária, chiado, edema de lábios e PA de 82/45 mmHg minutos após um alimento novo. Qual é a primeira medicação específica?",
+      "answer": "Adrenalina intramuscular na face anterolateral da coxa.",
+      "why": "Pele, respiração e circulação foram comprometidas logo após a exposição.",
+      "decisive": "Comprometimento de pele, respiração e circulação após exposição sugere anafilaxia.",
+      "rule": "Na anafilaxia, não deixe a adrenalina para depois dos adjuvantes.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 013 — Volume 01",
+      "source": {
+        "title": "World Allergy Organization, Anaphylaxis Guidance (2020)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7607509/"
+      }
+    },
+    {
+      "id": "fc-c015",
+      "caseId": 15,
+      "volume": 1,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Hiponatremia sintomática",
+      "front": "Convulsão com sódio de 112 mmol/L, glicemia normal e sem outra causa imediata. Qual é a medida inicial específica?",
+      "answer": "NaCl a 3% em bólus, pela convulsão.",
+      "why": "O sintoma neurológico é grave e a hiponatremia é profunda.",
+      "decisive": "Sintoma neurológico grave em hiponatremia profunda.",
+      "rule": "Na hiponatremia, gravidade dos sintomas decide a intervenção inicial.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 015 — Volume 01",
+      "source": {
+        "title": "European Society of Endocrinology, Hyponatraemia Guideline",
+        "url": "https://academic.oup.com/ejendo/article/170/3/G1/6668106"
+      }
+    },
+    {
+      "id": "fc-c021",
+      "caseId": 21,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Diagnóstico de diabetes tipo 2",
+      "front": "Glicemia de jejum de 132 mg/dL, sem sintomas e sem outro teste alterado. Qual é o próximo passo diagnóstico?",
+      "answer": "Confirmar com segundo resultado diagnóstico anormal.",
+      "why": "Sem sintomas, um único resultado anormal ainda não fecha o diagnóstico.",
+      "decisive": "Sem sintomas, um único resultado anormal não encerra o diagnóstico.",
+      "rule": "Na pessoa assintomática, confirme a alteração antes de rotular diabetes.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 021 — Volume 02",
+      "source": {
+        "title": "Ministério da Saúde, Linha de Cuidado DM2",
+        "url": "https://linhasdecuidado.saude.gov.br/portal/diabetes-mellitus-tipo-2-%28DM2%29-no-adulto/unidade-de-atencao-primaria/definicao-diabetes-mellitus-tipo-2-DM2-no-adulto/"
+      }
+    },
+    {
+      "id": "fc-c023",
+      "caseId": 23,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Doença renal crônica: duração",
+      "front": "TFG de 52 mL/min/1,73 m² depois de uma gastroenterite; há seis meses a TFG era normal. O que ajudaria a classificar doença renal crônica?",
+      "answer": "Persistência de alteração renal por pelo menos três meses.",
+      "why": "A queda surgiu numa doença aguda e ainda não tem duração documentada.",
+      "decisive": "A anormalidade surgiu durante uma doença aguda e ainda não tem duração documentada.",
+      "rule": "Não classifique DRC por uma queda isolada de TFG durante doença aguda.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 023 — Volume 02",
+      "source": {
+        "title": "KDIGO, Chronic Kidney Disease Guideline (2024)",
+        "url": "https://kdigo.org/kdigo-2024-ckd-guideline/"
+      }
+    },
+    {
+      "id": "fc-c024",
+      "caseId": 24,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Hipertensão do avental branco",
+      "front": "Pressão repetidamente alta no consultório e medidas domiciliares padronizadas abaixo do limiar, sem sintomas. Como esclarecer essa diferença?",
+      "answer": "Confirmar com MAPA ou MRPA.",
+      "why": "A pressão do consultório pode não representar a pressão habitual.",
+      "decisive": "PA do consultório pode diferir da pressão habitual.",
+      "rule": "Discrepância entre consultório e casa pede técnica validada fora da unidade.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 024 — Volume 02",
+      "source": {
+        "title": "NICE, Hypertension in Adults NG136",
+        "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c026",
+      "caseId": 26,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Hipotireoidismo primário",
+      "front": "Cansaço, com TSH elevado e T4 livre baixo. Qual é a interpretação?",
+      "answer": "Hipotireoidismo primário manifesto.",
+      "why": "TSH alto com T4 livre baixo é o padrão bioquímico desse quadro.",
+      "decisive": "TSH alto com T4 livre baixo é o padrão bioquímico fundamental.",
+      "rule": "TSH alto + T4 baixo sugere hipotireoidismo primário manifesto.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 026 — Volume 02",
+      "source": {
+        "title": "NICE, Thyroid Disease NG145",
+        "url": "https://www.nice.org.uk/guidance/ng145/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c027",
+      "caseId": 27,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Deficiência de vitamina B12",
+      "front": "Parestesias, perda da sensibilidade vibratória, anemia macrocítica e B12 baixa. Qual decisão evita a progressão neurológica?",
+      "answer": "Reposição parenteral de vitamina B12 e investigação da causa.",
+      "why": "A deficiência já se manifesta no sangue e nos nervos, e folato isolado não a resolve.",
+      "decisive": "A deficiência tem manifestações hematológicas e neurológicas.",
+      "rule": "Neuropatia com B12 baixa exige reposição; não use folato isoladamente.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 027 — Volume 02",
+      "source": {
+        "title": "NICE, Vitamin B12 Deficiency NG239",
+        "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c029",
+      "caseId": 29,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Fibrilação atrial e prevenção de AVC",
+      "front": "Fibrilação atrial persistente aos 76 anos, com hipertensão e AVC isquêmico antigo, e a frequência já está controlada. O que não pode faltar no plano?",
+      "answer": "Anticoagulação oral para prevenir novo AVC.",
+      "why": "Idade e AVC prévio marcam alto risco, e controlar o pulso não cobre a prevenção do evento.",
+      "decisive": "AVC prévio e idade avançada indicam alto risco tromboembólico.",
+      "rule": "Controlar o pulso não substitui prevenção de AVC na fibrilação atrial.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 029 — Volume 02",
+      "source": {
+        "title": "NICE, Atrial Fibrillation NG196",
+        "url": "https://www.nice.org.uk/guidance/ng196/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c030",
+      "caseId": 30,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Confirmação de DPOC",
+      "front": "Tabagista com tosse e dispneia progressivas; o exame inicial sugere DPOC. Que teste confirma obstrução persistente?",
+      "answer": "Espirometria após broncodilatador.",
+      "why": "Sintomas e tabagismo levantam a suspeita, mas não fecham o diagnóstico.",
+      "decisive": "Sintomas e tabagismo levantam suspeita, não encerram diagnóstico.",
+      "rule": "Suspeita clínica de DPOC pede confirmação espirométrica.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 030 — Volume 02",
+      "source": {
+        "title": "NICE, COPD NG115",
+        "url": "https://www.nice.org.uk/guidance/ng115/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c035",
+      "caseId": 35,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Bacteriúria em adulto não gestante",
+      "front": "Urocultura positiva em exame de rotina, sem sintomas urinários, sem gravidez e sem procedimento urológico invasivo. Como interpretar?",
+      "answer": "Evitar antibiótico para bacteriúria assintomática.",
+      "why": "Nesse contexto, cultura positiva não significa infecção a tratar.",
+      "decisive": "Cultura positiva não é sinônimo de infecção sintomática.",
+      "rule": "Trate a pessoa e o contexto, não apenas a urocultura.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 035 — Volume 02",
+      "source": {
+        "title": "NICE, Urinary Tract Infection Lower NG109",
+        "url": "https://www.nice.org.uk/guidance/ng109/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c039",
+      "caseId": 39,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Acidose metabólica: ânion gap",
+      "front": "Sódio 140, cloro 100 e bicarbonato 12 mmol/L, com albumina normal. Qual é o ânion gap, sem ajuste pela albumina?",
+      "answer": "28 mmol/L.",
+      "why": "O cálculo usa sódio menos cloro e bicarbonato, sem correção pela albumina.",
+      "decisive": "Ânion gap = Na - (Cl + HCO3) = 140 - 112.",
+      "rule": "Calcule Na - (Cl + bicarbonato); não esqueça albumina na interpretação.",
+      "needsClinicalReview": true,
+      "reviewLabel": "Rever caso 039 — Volume 02",
+      "source": {
+        "title": "Ministério da Saúde, Linha de Cuidado DM2",
+        "url": "https://linhasdecuidado.saude.gov.br/portal/diabetes-mellitus-tipo-2-%28DM2%29-no-adulto/unidade-de-atencao-primaria/definicao-diabetes-mellitus-tipo-2-DM2-no-adulto/"
+      }
+    },
+    {
+      "id": "fc-c040",
+      "caseId": 40,
+      "volume": 2,
+      "area": "CLÍNICA MÉDICA",
+      "topic": "Hiperglicemia e diagnóstico na urgência",
+      "front": "Poliúria, polidipsia e perda de peso, com glicemia casual de 263 mg/dL. Como interpretar?",
+      "answer": "Sintomas clássicos e glicemia casual ≥ 200 mg/dL sustentam diabetes.",
+      "why": "Há sintomas típicos junto com hiperglicemia casual inequívoca.",
+      "decisive": "Há hiperglicemia inequívoca com sintomas típicos.",
+      "rule": "Sintomas típicos + glicemia casual ≥ 200 mg/dL permitem diagnóstico.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 040 — Volume 02",
+      "source": {
+        "title": "Ministério da Saúde, Linha de Cuidado DM2",
+        "url": "https://linhasdecuidado.saude.gov.br/portal/diabetes-mellitus-tipo-2-%28DM2%29-no-adulto/unidade-de-atencao-primaria/definicao-diabetes-mellitus-tipo-2-DM2-no-adulto/"
+      }
+    },
+    {
+      "id": "fc-c041",
+      "caseId": 41,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Obstrução intestinal",
+      "front": "Obstrução de delgado com ponto de transição, sinais de hipoperfusão, defesa e dor à descompressão, após laparotomia antiga. Qual é a conduta?",
+      "answer": "Reposição volêmica e laparotomia de urgência.",
+      "why": "Há peritonismo e possível isquemia, então o manejo só conservador não cabe.",
+      "decisive": "Obstrução + peritonismo + possível isquemia: há contraindicação ao manejo exclusivamente conservador.",
+      "rule": "Na obstrução por provável aderência, procure ativamente sinais que exigem cirurgia.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 041 — Volume 03",
+      "source": {
+        "title": "WSES, obstrução de intestino delgado por aderências (2017)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6006983/"
+      }
+    },
+    {
+      "id": "fc-c043",
+      "caseId": 43,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Apendicite complicada",
+      "front": "Apendicite com taquicardia, peritonite difusa e pneumoperitônio. Qual é a conduta?",
+      "answer": "Reposição volêmica, antibiótico e laparotomia de urgência.",
+      "why": "Há perfuração com peritonite difusa, e o tratamento não é ambulatorial.",
+      "decisive": "Sinais de peritonite difusa e perfuração afastam tratamento ambulatorial.",
+      "rule": "Apendicite com peritonite generalizada pede controle do foco.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 043 — Volume 03",
+      "source": {
+        "title": "WSES, Jerusalem Guidelines for Acute Appendicitis (2020)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386163/"
+      }
+    },
+    {
+      "id": "fc-c046",
+      "caseId": 46,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Isquemia aguda de membro",
+      "front": "Dor súbita na perna, palidez, ausência de pulso e parestesia, em quem tem fibrilação atrial e não tem contraindicação à anticoagulação. Qual é o próximo passo?",
+      "answer": "Heparina não fracionada intravenosa e cirurgia vascular imediata.",
+      "why": "Dor súbita, perda de pulso e parestesia caracterizam isquemia aguda ameaçadora.",
+      "decisive": "Dor súbita, déficit de pulso e parestesia caracterizam isquemia aguda ameaçadora.",
+      "rule": "Na isquemia aguda, a heparina e a equipe vascular entram cedo, se não houver contraindicação.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 046 — Volume 03",
+      "source": {
+        "title": "ACC/AHA, Peripheral Artery Disease Guideline (2024)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12782132/"
+      }
+    },
+    {
+      "id": "fc-c047",
+      "caseId": 47,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Diverticulite não complicada",
+      "front": "Diverticulite localizada na tomografia, sem abscesso, em pessoa imunocompetente, estável, que tolera líquidos e pode retornar. Qual é a orientação sobre antibiótico?",
+      "answer": "Tratar ambulatorialmente com suporte e seguimento, sem antibiótico obrigatório.",
+      "why": "A inflamação está restrita e a pessoa permanece estável.",
+      "decisive": "Doença tomograficamente não complicada em pessoa imunocompetente e estável.",
+      "rule": "Na diverticulite, a tomografia separa doença não complicada de abscesso e perfuração.",
+      "needsClinicalReview": true,
+      "reviewLabel": "Rever caso 047 — Volume 03",
+      "source": {
+        "title": "WSES, Acute Colonic Diverticulitis Guideline (2020)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7206757/"
+      }
+    },
+    {
+      "id": "fc-c048",
+      "caseId": 48,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Abscesso diverticular",
+      "front": "Diverticulite com coleção pericólica de 6 cm, acessível, sem peritonite difusa, em pessoa estável. Qual é a melhor estratégia?",
+      "answer": "Dar antibiótico e avaliar drenagem percutânea do abscesso acessível.",
+      "why": "Nesta coleção, o tamanho e o acesso permitem avaliar drenagem.",
+      "decisive": "Abscesso grande, acessível e sem peritonite generalizada.",
+      "rule": "Na diverticulite complicada, tamanho e acessibilidade da coleção orientam a drenagem.",
+      "needsClinicalReview": true,
+      "reviewLabel": "Rever caso 048 — Volume 03",
+      "source": {
+        "title": "WSES, Acute Colonic Diverticulitis Guideline (2020)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7206757/"
+      }
+    },
+    {
+      "id": "fc-c049",
+      "caseId": 49,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Fasciíte necrosante",
+      "front": "Dor desproporcional na perna, bolhas, progressão rápida, febre e hipotensão, em pessoa com diabetes. Qual é a decisão?",
+      "answer": "Iniciar antibiótico amplo e desbridamento cirúrgico urgente.",
+      "why": "A suspeita é infecção necrosante, e o tempo até o desbridamento faz parte do tratamento.",
+      "decisive": "Dor desproporcional, progressão rápida e toxicidade sistêmica sugerem necrose profunda.",
+      "rule": "Na infecção necrosante, tempo até desbridamento é parte do tratamento.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 049 — Volume 03",
+      "source": {
+        "title": "WSES et al., Skin and Soft-Tissue Infection Pathways",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8761341/"
+      }
+    },
+    {
+      "id": "fc-c050",
+      "caseId": 50,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Pneumotórax hipertensivo",
+      "front": "Após trauma, dispneia intensa, hipotensão, murmúrio ausente à direita e distensão jugular, sem radiografia imediata. Qual é a conduta?",
+      "answer": "Toracocentese de alívio agora e, em seguida, drenagem pleural em selo d'água.",
+      "why": "O quadro é de pneumotórax hipertensivo, e a imagem não deve atrasar o alívio.",
+      "decisive": "Choque, dispneia e assimetria ventilatória após trauma sugerem pneumotórax sob tensão.",
+      "rule": "Pneumotórax hipertensivo: trate primeiro, confirme depois se necessário.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 050 — Volume 03",
+      "source": {
+        "title": "WSES-AAST, Thoracic Trauma Guidelines (2025)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12522690/"
+      }
+    },
+    {
+      "id": "fc-c054",
+      "caseId": 54,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Colangite aguda",
+      "front": "Febre, dor no hipocôndrio direito, icterícia, confusão e hipotensão, com colédoco dilatado; suporte e antibiótico já começaram. Qual intervenção controla a fonte?",
+      "answer": "CPRE de urgência para drenar a via biliar.",
+      "why": "Há infecção biliar obstrutiva com disfunção orgânica.",
+      "decisive": "Infecção biliar obstrutiva com disfunção orgânica caracteriza colangite grave.",
+      "rule": "Na colangite grave, antibiótico sem drenagem pode ser insuficiente.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 054 — Volume 03",
+      "source": {
+        "title": "Tokyo Guidelines, Acute Cholangitis Biliary Drainage",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2784512/"
+      }
+    },
+    {
+      "id": "fc-c055",
+      "caseId": 55,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Vólvulo de sigmoide",
+      "front": "Volvo de sigmoide, estável, sem peritonite, pneumoperitônio ou isquemia. Qual é a primeira intervenção?",
+      "answer": "Colonoscopia descompressiva, com cirurgia disponível.",
+      "why": "O volvo está estável, sem peritonite nem isquemia.",
+      "decisive": "Vólvulo não complicado em paciente estável.",
+      "rule": "No vólvulo, peritonite e viabilidade do cólon decidem a via inicial.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 055 — Volume 03",
+      "source": {
+        "title": "WSES, Sigmoid Volvulus Management (2023)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10186802/"
+      }
+    },
+    {
+      "id": "fc-c059",
+      "caseId": 59,
+      "volume": 3,
+      "area": "CIRURGIA GERAL",
+      "topic": "Torção testicular",
+      "front": "Dor escrotal súbita há duas horas, náusea, testículo elevado e reflexo cremastérico ausente, com equipe cirúrgica disponível. Qual é a conduta?",
+      "answer": "Exploração escrotal imediata, sem ultrassom.",
+      "why": "A suspeita clínica de torção é alta, e o tempo de isquemia manda na decisão.",
+      "decisive": "Início súbito e achados clássicos tornam torção testicular provável.",
+      "rule": "Na dor escrotal súbita, o tempo de isquemia domina a decisão.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 059 — Volume 03",
+      "source": {
+        "title": "EAU, Acute Scrotum / Testicular Torsion Guidelines",
+        "url": "https://uroweb.org/guidelines/paediatric-urology/chapter/the-guideline"
+      }
+    },
+    {
+      "id": "fc-c063",
+      "caseId": 63,
+      "volume": 4,
+      "area": "CIRURGIA GERAL",
+      "topic": "Cálculo vesicular incidental",
+      "front": "Cálculos na vesícula vistos por acaso, sem cólica, febre ou alteração biliar, e sem fatores especiais. Qual conduta geral cabe?",
+      "answer": "Não indicar colecistectomia rotineira apenas pelo achado.",
+      "why": "O achado foi incidental e não há sintoma biliar.",
+      "decisive": "O achado foi incidental e não há sintomas biliares.",
+      "rule": "Sintoma, complicação e contexto mudam o significado do cálculo.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 063 — Volume 04",
+      "source": {
+        "title": "NICE, Gallstone Disease CG188",
+        "url": "https://www.nice.org.uk/guidance/cg188/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c064",
+      "caseId": 64,
+      "volume": 4,
+      "area": "CIRURGIA GERAL",
+      "topic": "Suspeita de câncer colorretal",
+      "front": "Mudança persistente do hábito intestinal, anemia ferropriva e sangue visível nas fezes, em pessoa estável. Qual investigação organizar?",
+      "answer": "Avaliação diagnóstica colorretal com colonoscopia e biópsia se lesão.",
+      "why": "Há sintomas, então o caminho é diagnóstico e não um teste de rastreamento.",
+      "decisive": "Sangramento visível e anemia mudam o objetivo de rastreio para investigação.",
+      "rule": "Pessoa sintomática precisa de investigação diagnóstica, não teste de rastreamento.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 064 — Volume 04",
+      "source": {
+        "title": "NICE, Suspected Cancer NG12",
+        "url": "https://www.nice.org.uk/guidance/ng12/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c068",
+      "caseId": 68,
+      "volume": 4,
+      "area": "CIRURGIA GERAL",
+      "topic": "Checklist de cirurgia segura",
+      "front": "Antes da anestesia, a lateralidade do joelho no agendamento diverge do consentimento. Qual é a decisão?",
+      "answer": "Interromper a sequência e confirmar paciente, procedimento e lado.",
+      "why": "Divergência de paciente, procedimento ou lado pede pausa antes de seguir.",
+      "decisive": "Conflito de lateralidade é falha crítica de segurança.",
+      "rule": "Divergência de paciente, procedimento ou lado exige pausa antes de operar.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 068 — Volume 04",
+      "source": {
+        "title": "WHO, Surgical Safety Checklist",
+        "url": "https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources"
+      }
+    },
+    {
+      "id": "fc-c070",
+      "caseId": 70,
+      "volume": 4,
+      "area": "CIRURGIA GERAL",
+      "topic": "Complicação pós-operatória: sangramento",
+      "front": "Horas após laparotomia: taquicardia, hipotensão e dreno com sangue vivo crescente. Qual é a prioridade?",
+      "answer": "Reposição volêmica e reabordagem cirúrgica imediata.",
+      "why": "Instabilidade com sangramento ativo pede ação antes de hemoglobina de controle.",
+      "decisive": "Instabilidade e sangramento ativo após operação são emergência.",
+      "rule": "Após cirurgia, dreno com sangue vivo e choque pedem ação antes de Hb de controle.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 070 — Volume 04",
+      "source": {
+        "title": "WHO, Surgical Safety Checklist",
+        "url": "https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery/tool-and-resources"
+      }
+    },
+    {
+      "id": "fc-c071",
+      "caseId": 71,
+      "volume": 4,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Pré-eclâmpsia com gravidade",
+      "front": "Gestação de 35 semanas, PA de 172/114 mmHg confirmada, cefaleia intensa e turvação visual, sem convulsão e com batimentos fetais. Qual é a conduta?",
+      "answer": "Anti-hipertensivo, sulfato de magnésio e parto após estabilizar.",
+      "why": "A pressão está em faixa grave e há sintomas neurológicos.",
+      "decisive": "PA em faixa grave + sintomas neurológicos em gestação de 35 semanas.",
+      "rule": "Associe três decisões: proteger a mãe, prevenir eclâmpsia e definir o momento e a via do parto.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 071 — Volume 04",
+      "source": {
+        "title": "ACOG, hipertensão e pré-eclâmpsia na gravidez",
+        "url": "https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy"
+      }
+    },
+    {
+      "id": "fc-c072",
+      "caseId": 72,
+      "volume": 4,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Gestação ectópica",
+      "front": "Atraso menstrual de sete semanas, teste de gravidez positivo, dor súbita, desmaio, PA de 82/48 mmHg, FC de 128 bpm e líquido livre. Qual é a conduta?",
+      "answer": "Reposição volêmica e laparotomia por ectópica rota.",
+      "why": "Gravidez com choque e líquido livre sugere hemorragia por ectópica rota.",
+      "decisive": "Gravidez + dor abdominal + choque + líquido livre sugerem hemorragia por ectópica rota.",
+      "rule": "Em ginecologia de urgência, estado hemodinâmico pode ser mais decisivo que um valor isolado de beta-hCG.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 072 — Volume 04",
+      "source": {
+        "title": "Ministério da Saúde, Manual de Gestação de Alto Risco",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/manual_gestacao_alto_risco.pdf"
+      }
+    },
+    {
+      "id": "fc-c073",
+      "caseId": 73,
+      "volume": 4,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Placenta prévia",
+      "front": "Gestação de 32 semanas, sangramento vermelho vivo sem dor, estável, e um ultrassom antigo sugeriu placenta baixa. Qual é a abordagem inicial?",
+      "answer": "Avaliar a mãe e o feto e localizar a placenta antes do toque vaginal.",
+      "why": "No sangramento da segunda metade, a posição da placenta vem antes do toque.",
+      "decisive": "Sangramento indolor no terceiro trimestre exige excluir placenta prévia.",
+      "rule": "No sangramento da segunda metade da gestação, saiba onde está a placenta antes do toque.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 073 — Volume 04",
+      "source": {
+        "title": "Ministério da Saúde, Manual de Gestação de Alto Risco",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/manual_gestacao_alto_risco.pdf"
+      }
+    },
+    {
+      "id": "fc-c074",
+      "caseId": 74,
+      "volume": 4,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Descolamento prematuro da placenta",
+      "front": "Gestação de 36 semanas, dor súbita, sangramento escuro, útero endurecido e sofrimento fetal. Qual é a prioridade?",
+      "answer": "Estabilizar a gestante e decidir o parto com urgência.",
+      "why": "Dor e hipertonia com sangramento sugerem descolamento de placenta.",
+      "decisive": "Sangramento doloroso com hipertonia uterina sugere descolamento de placenta.",
+      "rule": "Compare placenta prévia (tipicamente indolor) e descolamento (dor e hipertonia).",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 074 — Volume 04",
+      "source": {
+        "title": "Ministério da Saúde, Manual de Gestação de Alto Risco",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/manual_gestacao_alto_risco.pdf"
+      }
+    },
+    {
+      "id": "fc-c075",
+      "caseId": 75,
+      "volume": 4,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Eclâmpsia",
+      "front": "Gestação de 34 semanas, hipertensão grave e convulsão, depois de proteger a via aérea. Qual fármaco priorizar?",
+      "answer": "Administrar sulfato de magnésio sob monitorização.",
+      "why": "A convulsão no contexto de pré-eclâmpsia caracteriza eclâmpsia.",
+      "decisive": "Convulsão no contexto de pré-eclâmpsia sugere eclâmpsia.",
+      "rule": "Eclâmpsia: magnésio, suporte materno e resolução obstétrica planejada.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 075 — Volume 04",
+      "source": {
+        "title": "ACOG, Gestational Hypertension and Preeclampsia",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin/articles/2020/06/gestational-hypertension-and-preeclampsia"
+      }
+    },
+    {
+      "id": "fc-c076",
+      "caseId": 76,
+      "volume": 4,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Hemorragia pós-parto por atonia",
+      "front": "Minutos após o parto, sangramento abundante e útero aumentado e amolecido. Qual é o conjunto inicial?",
+      "answer": "Massagem uterina, ocitocina e reposição volêmica.",
+      "why": "Sangramento com útero flácido indica atonia.",
+      "decisive": "Sangramento com útero flácido sugere atonia uterina.",
+      "rule": "Na hemorragia pós-parto, reconheça atonia pelo útero flácido e trate já.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 076 — Volume 04",
+      "source": {
+        "title": "OMS, Prevention, Diagnosis and Treatment of Postpartum Haemorrhage (2025)",
+        "url": "https://www.who.int/publications/i/item/9789240115637"
+      }
+    },
+    {
+      "id": "fc-c081",
+      "caseId": 81,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Lesão cervical visível",
+      "front": "Sangramento depois das relações e lesão irregular e friável no colo, sem rastreamento recente. Qual é a próxima etapa?",
+      "answer": "Encaminhar para biópsia dirigida da lesão visível.",
+      "why": "Lesão visível pede investigação diagnóstica, não apenas rastreamento.",
+      "decisive": "Lesão macroscópica friável e sangramento de contato exigem investigação diagnóstica.",
+      "rule": "Quando há lesão visível, o caminho é diagnóstico, não simples rastreamento.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 081 — Volume 05",
+      "source": {
+        "title": "INCA, Câncer do Colo do Útero: Versão para Profissionais",
+        "url": "https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/colo-do-utero/versao-para-profissionais-de-saude"
+      }
+    },
+    {
+      "id": "fc-c083",
+      "caseId": 83,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Torção anexial",
+      "front": "Dor pélvica súbita e vômitos, ovário aumentado e fluxo ao Doppler ainda presente, com suspeita alta de torção. Qual é a conduta?",
+      "answer": "Acionar laparoscopia urgente diante da suspeita de torção.",
+      "why": "A clínica de torção prevalece sobre um Doppler isolado tranquilizador.",
+      "decisive": "Dor súbita com vômitos e ovário aumentado, mesmo com Doppler presente.",
+      "rule": "Na torção ovariana, a clínica prevalece sobre um Doppler tranquilizador isolado.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 083 — Volume 05",
+      "source": {
+        "title": "ACOG, Adnexal Torsion in Adolescents",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents"
+      }
+    },
+    {
+      "id": "fc-c084",
+      "caseId": 84,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Sangramento uterino anormal",
+      "front": "Sangramento uterino intenso fora do período habitual, em pessoa estável e sem diagnóstico prévio. Qual exame inicial é indispensável?",
+      "answer": "Realizar teste de gravidez como passo inicial.",
+      "why": "Em idade reprodutiva, gestação precisa ser excluída antes de outros rótulos.",
+      "decisive": "Toda pessoa em idade reprodutiva com sangramento uterino pode estar grávida.",
+      "rule": "Antes de rotular sangramento uterino como disfuncional, exclua gestação.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 084 — Volume 05",
+      "source": {
+        "title": "ACOG, Management of Acute Abnormal Uterine Bleeding",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2013/04/management-of-acute-abnormal-uterine-bleeding-in-nonpregnant-reproductive-aged-women"
+      }
+    },
+    {
+      "id": "fc-c085",
+      "caseId": 85,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Sangramento pós-menopausa",
+      "front": "Onze anos sem menstruar e um episódio novo de sangramento, com endométrio de 9 mm, em pessoa estável. Qual é a próxima etapa?",
+      "answer": "Biópsia de endométrio.",
+      "why": "Sangramento após a menopausa pede avaliação, mesmo quando o episódio é único.",
+      "decisive": "Sangramento pós-menopausa e espessura endometrial acima do limiar tranquilizador.",
+      "rule": "Sangramento pós-menopausa é indicação de avaliação, mesmo que o episódio seja único.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 085 — Volume 05",
+      "source": {
+        "title": "ACOG, Postmenopausal Bleeding Evaluation",
+        "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2018/05/the-role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with-postmenopausal-bleeding"
+      }
+    },
+    {
+      "id": "fc-c087",
+      "caseId": 87,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Trabalho de parto prematuro",
+      "front": "Gestação de 30 semanas, contrações regulares, mudança cervical e parto provável em 24 horas, com membranas íntegras e sem contraindicação. Que medida fetal considerar?",
+      "answer": "Betametasona para maturação pulmonar e sulfato de magnésio para neuroproteção fetal.",
+      "why": "Com 30 semanas, ainda há janela para maturação pulmonar e neuroproteção.",
+      "decisive": "Parto provável com 30 semanas situa-se na janela de maturação pulmonar e neuroproteção.",
+      "rule": "Em trabalho de parto pré-termo, pergunte o que pode ser feito antes de o bebê nascer.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 087 — Volume 05",
+      "source": {
+        "title": "ACOG, Preterm Labor and Birth",
+        "url": "https://www.acog.org/womens-health/faqs/preterm-labor-and-birth"
+      }
+    },
+    {
+      "id": "fc-c089",
+      "caseId": 89,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Sífilis na gestação",
+      "front": "Gestação de 20 semanas, testes treponêmico e VDRL reagentes, sem tratamento prévio, e alergia imediata à penicilina. Qual é o plano?",
+      "answer": "Dessensibilizar e tratar com penicilina.",
+      "why": "Na gestação, a penicilina é o tratamento que também alcança a infecção fetal.",
+      "decisive": "Na gestação, penicilina é a terapia eficaz documentada para tratar também a infecção fetal.",
+      "rule": "Sífilis gestacional com alergia confirmada à penicilina exige via para usar penicilina.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 089 — Volume 05",
+      "source": {
+        "title": "CDC, Syphilis During Pregnancy Treatment Guidelines",
+        "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis-pregnancy.htm"
+      }
+    },
+    {
+      "id": "fc-c090",
+      "caseId": 90,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Bacteriúria assintomática na gestação",
+      "front": "Gestação de 15 semanas, sem disúria ou febre, e urocultura adequada com um uropatógeno em crescimento significativo. Qual é a conduta?",
+      "answer": "Tratar bacteriúria confirmada com fármaco seguro guiado por cultura.",
+      "why": "Na gestação, bacteriúria confirmada muda a decisão mesmo sem sintomas.",
+      "decisive": "Bacteriúria assintomática confirmada na gestação é situação em que se indica tratamento.",
+      "rule": "Bacteriúria assintomática: a gestação muda a decisão terapêutica.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 090 — Volume 05",
+      "source": {
+        "title": "ACOG, Urinary Tract Infections in Pregnant Individuals",
+        "url": "https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/08/urinary-tract-infections-in-pregnant-individuals"
+      }
+    },
+    {
+      "id": "fc-c092",
+      "caseId": 92,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Ácido fólico pré-concepcional",
+      "front": "Sem fatores de risco especiais, planeja engravidar em dois meses e pede prevenção de defeito do tubo neural. Qual medida farmacológica cabe?",
+      "answer": "Iniciar ácido fólico 400 microgramas ao dia antes da concepção.",
+      "why": "A prevenção começa antes da concepção, e a dose muda quando há risco especial.",
+      "decisive": "Prevenção deve anteceder a concepção.",
+      "rule": "Ácido fólico preventivo começa antes de engravidar; dose depende do risco.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 092 — Volume 05",
+      "source": {
+        "title": "Ministério da Saúde, Linha de Cuidado Pré-natal de Baixo Risco",
+        "url": "https://linhasdecuidado.saude.gov.br/portal/pre-natal-baixo-risco/unidade-de-atencao-primaria/vigilancia-saude/"
+      }
+    },
+    {
+      "id": "fc-c093",
+      "caseId": 93,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Pressão elevada no pré-natal",
+      "front": "Gestação de 25 semanas, sem hipertensão prévia, PA de 146/94 mmHg confirmada e sem sintomas graves. Qual é o próximo eixo?",
+      "answer": "Investigar doença hipertensiva da gestação e repercussão materno-fetal.",
+      "why": "A pressão nova após 20 semanas está em faixa hipertensiva, sem gravidade imediata.",
+      "decisive": "PA nova após 20 semanas está em faixa hipertensiva, sem gravidade imediata descrita.",
+      "rule": "PA ≥ 140/90 após 20 semanas exige avaliação; ≥ 160/110 demanda urgência.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 093 — Volume 05",
+      "source": {
+        "title": "Ministério da Saúde, Manual de Gestação de Alto Risco",
+        "url": "https://bvsms.saude.gov.br/bvs/publicacoes/manual_gestacao_alto_risco.pdf"
+      }
+    },
+    {
+      "id": "fc-c098",
+      "caseId": 98,
+      "volume": 5,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Contracepção e enxaqueca com aura",
+      "front": "Enxaqueca com aura e pedido de pílula combinada com estrogênio. Qual orientação é mais segura?",
+      "answer": "Evitar método combinado com estrogênio e discutir alternativas.",
+      "why": "A aura muda a elegibilidade para o estrogênio.",
+      "decisive": "A aura altera a elegibilidade para estrogênio.",
+      "rule": "Enxaqueca com aura: evite contraceptivo combinado com estrogênio.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 098 — Volume 05",
+      "source": {
+        "title": "CDC, U.S. Medical Eligibility Criteria for Contraceptive Use (2024)",
+        "url": "https://www.cdc.gov/contraception/hcp/usmec/index.html"
+      }
+    },
+    {
+      "id": "fc-c101",
+      "caseId": 101,
+      "volume": 6,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Síndrome dos ovários policísticos",
+      "front": "Ciclos espaçados e hiperandrogenismo, com pedido de investigação para ovários policísticos. Que cuidado evita um diagnóstico apressado?",
+      "answer": "Excluir outras causas de irregularidade e hiperandrogenismo.",
+      "why": "O diagnóstico pede critérios e a exclusão de outras causas relevantes.",
+      "decisive": "O diagnóstico sindrômico exige critérios e exclusão de alternativas relevantes.",
+      "rule": "SOP é diagnóstico clínico-criterial; ultrassom isolado não basta.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 101 — Volume 06",
+      "source": {
+        "title": "International Evidence-Based Guideline for PCOS (2023)",
+        "url": "https://www.monash.edu/medicine/mchri/pcos/guideline"
+      }
+    },
+    {
+      "id": "fc-c102",
+      "caseId": 102,
+      "volume": 6,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Endometriose sem sinais de alarme",
+      "front": "Dismenorreia incapacitante e dor pélvica cíclica, sem massa, com gravidez negativa, e sem desejo de cirurgia agora. O que pode começar na atenção primária?",
+      "answer": "Oferecer analgesia e tratamento hormonal empírico quando elegível.",
+      "why": "A dor cíclica sugestiva pode ser abordada de início sem cirurgia.",
+      "decisive": "Dor cíclica sugestiva pode ser abordada inicialmente sem cirurgia.",
+      "rule": "Ultrassom normal não afasta endometriose superficial.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 102 — Volume 06",
+      "source": {
+        "title": "NICE, Endometriosis NG73",
+        "url": "https://www.nice.org.uk/guidance/ng73/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c105",
+      "caseId": 105,
+      "volume": 6,
+      "area": "GINECOLOGIA E OBSTETRÍCIA",
+      "topic": "Anemia na gestação: investigação",
+      "front": "Gestação de 26 semanas, hemoglobina baixa e VCM baixo, sem sangramento ativo. O que fazer antes de atribuir isso só à gestação?",
+      "answer": "Avaliar deficiência de ferro e outras causas conforme exames e contexto.",
+      "why": "Anemia microcítica não se explica apenas pela hemodiluição.",
+      "decisive": "Anemia microcítica não pode ser atribuída apenas à hemodiluição.",
+      "rule": "Gestação pode reduzir Hb por hemodiluição, mas microcitose pede investigação.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 105 — Volume 06",
+      "source": {
+        "title": "Ministério da Saúde, Saúde Materna e Pré-natal",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-mulher/saude-materna"
+      }
+    },
+    {
+      "id": "fc-c106",
+      "caseId": 106,
+      "volume": 6,
+      "area": "PEDIATRIA",
+      "topic": "Diarreia e desidratação",
+      "front": "Criança de 18 meses com diarreia há dois dias, irritada, com olhos fundos, sede, prega lenta, consciente e conseguindo beber, sem choque. Qual é a conduta inicial?",
+      "answer": "Plano B com soro de reidratação oral na unidade e reavaliar.",
+      "why": "Há sinais de desidratação, com capacidade de beber e sem choque.",
+      "decisive": "Sede intensa, olhos fundos e prega lenta com capacidade de beber, sem choque.",
+      "rule": "Classifique primeiro a hidratação. A escolha entre A, B e C depende de sinais e da capacidade de beber.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 106 — Volume 06",
+      "source": {
+        "title": "Ministério da Saúde, doenças diarreicas agudas e planos A/B/C",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dda/"
+      }
+    },
+    {
+      "id": "fc-c108",
+      "caseId": 108,
+      "volume": 6,
+      "area": "PEDIATRIA",
+      "topic": "Icterícia neonatal",
+      "front": "Recém-nascido a termo com 16 horas de vida, icterícia até o tórax, mamando, e incompatibilidade sanguínea em gestação anterior. Qual é a conduta inicial?",
+      "answer": "Medir bilirrubina e investigar hemólise conforme idade em horas.",
+      "why": "Icterícia nas primeiras 24 horas pede medida objetiva e investigação.",
+      "decisive": "Icterícia nas primeiras 24 horas exige investigação objetiva.",
+      "rule": "Para icterícia neonatal, use horas de vida e bilirrubina medida.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 108 — Volume 06",
+      "source": {
+        "title": "AAP, Management of Hyperbilirubinemia in the Newborn (2022)",
+        "url": "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188726/"
+      }
+    },
+    {
+      "id": "fc-c109",
+      "caseId": 109,
+      "volume": 6,
+      "area": "PEDIATRIA",
+      "topic": "Febre no lactente jovem",
+      "front": "Lactente de 15 dias, a termo, com temperatura retal de 38,2 °C, corado e mamando, sem foco evidente. Qual é a conduta?",
+      "answer": "Internar para investigar infecção grave.",
+      "why": "Nessa idade, a febre documentada pesa mais do que a boa aparência.",
+      "decisive": "Febre documentada em bebê de 15 dias pertence ao grupo de maior risco.",
+      "rule": "Em recém-nascido febril, idade exata pesa mais que boa aparência.",
+      "needsClinicalReview": true,
+      "reviewLabel": "Rever caso 109 — Volume 06",
+      "source": {
+        "title": "AAP, Evaluation of Well-Appearing Febrile Infants 8-60 Days (2021)",
+        "url": "https://publications.aap.org/pediatrics/article/148/2/e2021052228/179825"
+      }
+    },
+    {
+      "id": "fc-c112",
+      "caseId": 112,
+      "volume": 6,
+      "area": "PEDIATRIA",
+      "topic": "Doença de Kawasaki",
+      "front": "Febre há seis dias, conjuntivite sem secreção, lábios fissurados, língua em framboesa, edema de mãos e linfonodo cervical. Qual é a conduta?",
+      "answer": "Ecocardiograma e imunoglobulina humana intravenosa.",
+      "why": "Febre por pelo menos cinco dias, com esses sinais mucocutâneos, sugere Kawasaki.",
+      "decisive": "Febre por pelo menos cinco dias associada aos sinais mucocutâneos sugere Kawasaki.",
+      "rule": "Kawasaki é diagnóstico clínico com repercussão coronariana potencial.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 112 — Volume 06",
+      "source": {
+        "title": "AHA, Update on Kawasaki Disease (2024)",
+        "url": "https://professional.heart.org/en/science-news/update-on-diagnosis-and-management-of-kawasaki-disease/top-things-to-know"
+      }
+    },
+    {
+      "id": "fc-c113",
+      "caseId": 113,
+      "volume": 6,
+      "area": "PEDIATRIA",
+      "topic": "Invaginação intestinal",
+      "front": "Lactente de nove meses, com crises de choro, flexão das pernas, vômitos e sonolência; o ultrassom mostra invaginação ileocólica, sem peritonite. Qual é o tratamento inicial?",
+      "answer": "Redução pneumática ou hidrostática, com cirurgia disponível.",
+      "why": "A invaginação está confirmada e não há peritonite que impeça a redução.",
+      "decisive": "Invaginação ileocólica confirmada e ausência de contraindicação à redução por enema.",
+      "rule": "Invaginação estável: pense em redução por enema; peritonite muda a via.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 113 — Volume 06",
+      "source": {
+        "title": "Royal Children’s Hospital, Intussusception Guideline",
+        "url": "https://www.rch.org.au/clinicalguide/guideline_index/intussusception/"
+      }
+    },
+    {
+      "id": "fc-c114",
+      "caseId": 114,
+      "volume": 6,
+      "area": "PEDIATRIA",
+      "topic": "Suspeita de epiglotite",
+      "front": "Criança de quatro anos, com vacinação incompleta, febre alta, sialorreia, voz abafada, estridor e posição inclinada para frente, piorando ao deitar. Qual é a prioridade?",
+      "answer": "Manter a criança sentada e acionar a equipe de via aérea.",
+      "why": "O quadro sugere obstrução supraglótica, e a via aérea vem antes da confirmação.",
+      "decisive": "Sialorreia, posição em tripé e toxicidade sugerem obstrução supraglótica grave.",
+      "rule": "Na epiglotite suspeita, proteja a via aérea antes de buscar confirmação detalhada.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 114 — Volume 06",
+      "source": {
+        "title": "Royal Children’s Hospital, Acute Upper Airway Obstruction",
+        "url": "https://www.rch.org.au/clinicalguide/guideline_index/acute_upper_airway_obstruction/"
+      }
+    },
+    {
+      "id": "fc-c118",
+      "caseId": 118,
+      "volume": 6,
+      "area": "PEDIATRIA",
+      "topic": "Sarampo",
+      "front": "Criança de sete anos, não vacinada, com febre, tosse, coriza, conjuntivite e exantema da face para o tronco, vinda de área com transmissão. Qual é a ação inicial de saúde pública?",
+      "answer": "Precaução para aerossóis e notificação imediata.",
+      "why": "A clínica e o vínculo epidemiológico tornam a suspeita relevante, e a ação não espera confirmação.",
+      "decisive": "Quadro clínico e vínculo epidemiológico tornam sarampo uma suspeita relevante.",
+      "rule": "Doença de notificação imediata: agir na suspeita.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 118 — Volume 06",
+      "source": {
+        "title": "Ministério da Saúde, Vigilância do Sarampo",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/vigilancia-do-sarampo"
+      }
+    },
+    {
+      "id": "fc-c121",
+      "caseId": 121,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Cardiopatia ducto-dependente",
+      "front": "Recém-nascido de três dias, com cianose progressiva e ecocardiograma mostrando atresia pulmonar dependente do canal arterial. Que medida inicial sustenta o fluxo?",
+      "answer": "Alprostadil para manter o canal arterial aberto.",
+      "why": "O fluxo pulmonar dessa lesão depende do canal arterial.",
+      "decisive": "A anatomia descrita depende do canal arterial para fluxo pulmonar.",
+      "rule": "Em lesão ducto-dependente, o fechamento do canal é a causa da piora.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 121 — Volume 07",
+      "source": {
+        "title": "AHA, Pulmonary Atresia and Duct-Dependent Circulation",
+        "url": "https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/pulmonary-atresia"
+      }
+    },
+    {
+      "id": "fc-c122",
+      "caseId": 122,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Desidratação grave",
+      "front": "Criança de 20 meses, letárgica, com olhos muito fundos, incapaz de beber, prega muito lenta e perfusão ruim, após diarreia e vômitos. Qual é a conduta?",
+      "answer": "Plano C: reidratação venosa e reavaliar.",
+      "why": "A criança não consegue beber e a perfusão está comprometida.",
+      "decisive": "Letargia, incapacidade de beber e sinais intensos de desidratação configuram gravidade.",
+      "rule": "A capacidade de beber e a perfusão ajudam a diferenciar Plano B de C.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 122 — Volume 07",
+      "source": {
+        "title": "Ministério da Saúde, Doenças Diarreicas Agudas",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dda/"
+      }
+    },
+    {
+      "id": "fc-c123",
+      "caseId": 123,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Sepse neonatal precoce",
+      "front": "Recém-nascido de 18 horas, mãe com febre no parto, mamando mal, com hipotermia, taquipneia e perfusão lenta. Qual é a abordagem inicial?",
+      "answer": "Hemoculturas e ampicilina com gentamicina venosas.",
+      "why": "Há risco materno e sinais de doença sistêmica, e o bebê pode esfriar em vez de febre.",
+      "decisive": "Risco materno e sinais clínicos neonatais de doença sistêmica.",
+      "rule": "Neonato séptico pode estar frio, não febril.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 123 — Volume 07",
+      "source": {
+        "title": "NICE, Neonatal Infection: Antibiotics for Prevention and Treatment",
+        "url": "https://www.nice.org.uk/guidance/ng195/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c124",
+      "caseId": 124,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Bronquiolite com hipoxemia",
+      "front": "Lactente de quatro meses com bronquiolite, tiragem moderada, SpO2 de 88% persistente e ingestão abaixo da metade do habitual. Qual é a conduta?",
+      "answer": "Internar para oxigênio e hidratação.",
+      "why": "A hipoxemia persiste e a alimentação não se sustenta.",
+      "decisive": "Hipoxemia persistente e ingesta insuficiente indicam necessidade de suporte hospitalar.",
+      "rule": "Na bronquiolite, a necessidade de oxigênio e a capacidade de alimentar-se guiam internação.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 124 — Volume 07",
+      "source": {
+        "title": "NICE, Bronchiolitis in Children: Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/ng9/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c125",
+      "caseId": 125,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Doença meningocócica",
+      "front": "Criança de cinco anos, febril, sonolenta e hipotensa, com manchas que não desaparecem à pressão. Qual é a prioridade?",
+      "answer": "Expansão volêmica e ceftriaxona venosa imediatas.",
+      "why": "Púrpura e choque com febre sugerem doença meningocócica, e o tratamento não espera o laboratório.",
+      "decisive": "Púrpura não branqueável e choque com febre sugerem sepse meningocócica.",
+      "rule": "Na suspeita de meningococcemia, a terapia começa antes da confirmação laboratorial.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 125 — Volume 07",
+      "source": {
+        "title": "NICE, Bacterial Meningitis and Meningococcal Disease",
+        "url": "https://www.nice.org.uk/guidance/ng240/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c128",
+      "caseId": 128,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Aleitamento exclusivo",
+      "front": "Bebê saudável de três meses, que mama bem e cresce de modo adequado. Deve-se oferecer água nos dias quentes?",
+      "answer": "Manter aleitamento materno exclusivo, sem água adicional.",
+      "why": "Até os seis meses, o leite materno cobre a hidratação de rotina.",
+      "decisive": "Leite materno cobre água e nutrientes nesse período.",
+      "rule": "Até seis meses, aleitamento exclusivo inclui não oferecer água rotineiramente.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 128 — Volume 07",
+      "source": {
+        "title": "OMS, Infant and Young Child Feeding",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+      }
+    },
+    {
+      "id": "fc-c129",
+      "caseId": 129,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Início de alimentação complementar",
+      "front": "Bebê saudável que completa seis meses, senta com apoio, interessa-se pela comida e segue mamando. O que orientar sobre a alimentação?",
+      "answer": "Iniciar alimentos complementares adequados mantendo o leite materno.",
+      "why": "Aos seis meses, só o leite já não supre todas as necessidades.",
+      "decisive": "Aos seis meses, só leite já não supre todas as necessidades.",
+      "rule": "Aos seis meses, complementar a dieta e continuar amamentando.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 129 — Volume 07",
+      "source": {
+        "title": "OMS, Infant and Young Child Feeding",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding"
+      }
+    },
+    {
+      "id": "fc-c130",
+      "caseId": 130,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Vacinação atrasada",
+      "front": "Criança de três anos com doses faltantes na caderneta, depois de mudar de cidade. Como atualizar o esquema?",
+      "answer": "Verificar doses válidas e completar esquema, sem reiniciar tudo.",
+      "why": "Doses comprovadas continuam válidas, e o atraso não apaga o que já foi recebido.",
+      "decisive": "Atraso não apaga doses comprovadamente recebidas.",
+      "rule": "Esquema atrasado é completado, não reiniciado automaticamente.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 130 — Volume 07",
+      "source": {
+        "title": "Ministério da Saúde, Calendário Nacional de Vacinação 2026",
+        "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario"
+      }
+    },
+    {
+      "id": "fc-c133",
+      "caseId": 133,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Convulsão febril simples",
+      "front": "Criança de dois anos, crise generalizada de três minutos durante a febre, volta ao habitual, com exame neurológico normal e sem sinais meníngeos. O que evita investigação excessiva?",
+      "answer": "Investigar a causa da febre; não pedir neuroimagem rotineira só pela crise.",
+      "why": "A crise foi breve, única e generalizada, com recuperação completa.",
+      "decisive": "Crise breve, generalizada, única e recuperação completa é padrão simples.",
+      "rule": "Convulsão febril simples não exige tomografia de rotina.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 133 — Volume 07",
+      "source": {
+        "title": "NICE, Fever in Under 5s NG143",
+        "url": "https://www.nice.org.uk/guidance/ng143/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c140",
+      "caseId": 140,
+      "volume": 7,
+      "area": "PEDIATRIA",
+      "topic": "Triagem auditiva neonatal alterada",
+      "front": "Triagem auditiva neonatal alterada em uma orelha; a família diz que o bebê reage a ruídos. O que é apropriado?",
+      "answer": "Repetir a triagem e encaminhar à avaliação audiológica.",
+      "why": "Falha na triagem pede confirmação, mesmo quando o bebê parece ouvir.",
+      "decisive": "Falha de triagem merece confirmação, mesmo se o bebê parece ouvir.",
+      "rule": "Triagem neonatal alterada pede seguimento, não observação passiva.",
+      "needsClinicalReview": true,
+      "reviewLabel": "Rever caso 140 — Volume 07",
+      "source": {
+        "title": "Ministério da Saúde, Caderneta da Criança",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/caderneta"
+      }
+    },
+    {
+      "id": "fc-c141",
+      "caseId": 141,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Contato de tuberculose",
+      "front": "Criança de três anos, assintomática, mora com um adulto com tuberculose pulmonar confirmada. Qual é o passo na investigação desse contato?",
+      "answer": "Afastar tuberculose ativa e indicar tratamento da ILTB.",
+      "why": "No contato domiciliar de menor de cinco anos, o primeiro passo é excluir doença ativa.",
+      "decisive": "Contato domiciliar em menor de cinco anos tem prioridade para investigação e prevenção.",
+      "rule": "Contato de TB: primeiro excluir doença, depois decidir prevenção.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 141 — Volume 08",
+      "source": {
+        "title": "OMS, Tuberculosis Preventive Treatment (2024)",
+        "url": "https://www.who.int/publications/i/item/9789240096196"
+      }
+    },
+    {
+      "id": "fc-c142",
+      "caseId": 142,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "PrEP para HIV",
+      "front": "Exposições sexuais repetidas, preservativo inconsistente, sem exposição de risco nas últimas 72 horas, assintomático e com teste de HIV negativo no serviço. Qual é a abordagem preventiva?",
+      "answer": "Avaliar elegibilidade para PrEP e testar HIV antes de iniciar.",
+      "why": "O risco é continuado e não houve exposição recente que peça profilaxia pós-exposição.",
+      "decisive": "Risco recorrente e ausência de exposição recente direcionam para prevenção pré-exposição.",
+      "rule": "PEP responde a uma exposição recente; PrEP protege diante de risco continuado.",
+      "needsClinicalReview": true,
+      "reviewLabel": "Rever caso 142 — Volume 08",
+      "source": {
+        "title": "Ministério da Saúde, PCDT PrEP Oral à Infecção pelo HIV (2025)",
+        "url": "https://www.gov.br/aids/pt-br/central-de-conteudo/pcdts/protocolo-clinico-e-diretrizes-terapeuticas-para-profilaxia-pre-exposicao-prep-oral-a-infeccao-pelo-hiv.pdf"
+      }
+    },
+    {
+      "id": "fc-c143",
+      "caseId": 143,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Tuberculose pulmonar",
+      "front": "Tosse há quatro semanas, sudorese noturna, perda de peso e infiltrado apical, em pessoa estável, com teste molecular disponível. Qual é a estratégia diagnóstica inicial?",
+      "answer": "Coletar escarro para TRM-TB.",
+      "why": "Sintomas prolongados e a imagem tornam tuberculose pulmonar provável e pedem confirmação microbiológica.",
+      "decisive": "Sintomas respiratórios prolongados e achado de imagem tornam TB pulmonar provável.",
+      "rule": "Tosse prolongada com sintomas constitucionais pede investigação microbiológica de TB.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 143 — Volume 08",
+      "source": {
+        "title": "OMS, Tuberculosis Module 3: Diagnosis (2025)",
+        "url": "https://www.who.int/publications/i/item/9789240110991"
+      }
+    },
+    {
+      "id": "fc-c145",
+      "caseId": 145,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Hipertensão arterial",
+      "front": "PA de 148/92 mmHg depois de subir escadas, sem sintomas, sem lesão de órgão-alvo e sem emergência. Qual é a conduta diagnóstica?",
+      "answer": "Confirmar hipertensão com medidas repetidas e avaliar risco.",
+      "why": "Uma medida isolada, fora de emergência, não encerra o diagnóstico.",
+      "decisive": "Valor elevado isolado sem sinais de emergência não basta para classificar todo o quadro.",
+      "rule": "Uma medida elevada inicia a investigação; não substitui confirmação.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 145 — Volume 08",
+      "source": {
+        "title": "Ministério da Saúde, PCDT Hipertensão Arterial Sistêmica",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/pcdt/h/hipertensao-arterial-sistemica.pdf/view"
+      }
+    },
+    {
+      "id": "fc-c148",
+      "caseId": 148,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Reconciliação medicamentosa após alta",
+      "front": "Depois da alta, usa receitas antigas junto com as novas e há anti-hipertensivo em dose duplicada. Que ação reduz o risco?",
+      "answer": "Fazer a conciliação medicamentosa com a prescrição da alta.",
+      "why": "A alta deixou a receita antiga junto da nova, com dose duplicada.",
+      "decisive": "A transição de cuidado criou risco concreto de duplicidade.",
+      "rule": "Após alta, concilie o que foi prescrito com o que a pessoa realmente toma.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 148 — Volume 08",
+      "source": {
+        "title": "NICE, Multimorbidity NG56",
+        "url": "https://www.nice.org.uk/guidance/ng56/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c149",
+      "caseId": 149,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Desprescrição de sedativo no idoso",
+      "front": "Aos 81 anos, usa benzodiazepínico todas as noites há anos, caiu duas vezes e teme suspender o remédio. Qual é a proposta inicial?",
+      "answer": "Discutir riscos e planejar redução gradual com alternativas para sono.",
+      "why": "O sedativo crônico pode contribuir para as quedas, e a retirada costuma ser gradual.",
+      "decisive": "Uso crônico de sedativo pode contribuir para queda e dependência.",
+      "rule": "Desprescrição de benzodiazepínico crônico costuma ser gradual e acompanhada.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 149 — Volume 08",
+      "source": {
+        "title": "NICE, Multimorbidity NG56",
+        "url": "https://www.nice.org.uk/guidance/ng56/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c150",
+      "caseId": 150,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Quedas recorrentes no idoso",
+      "front": "Aos 79 anos, três quedas em seis meses, sem perda de consciência, em uso de sedativo, com medo de caminhar e tapetes soltos em casa. Qual avaliação é mais útil?",
+      "answer": "Avaliar marcha, fármacos, visão, pressão e ambiente domiciliar.",
+      "why": "As quedas são repetidas e há vários fatores que podem ser modificados.",
+      "decisive": "Quedas repetidas são multifatoriais e há riscos modificáveis.",
+      "rule": "Queda recorrente pede busca de múltiplos fatores, não rótulo de velhice.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 150 — Volume 08",
+      "source": {
+        "title": "NICE, Falls in Older People NG249",
+        "url": "https://www.nice.org.uk/guidance/ng249/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c152",
+      "caseId": 152,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Lombalgia inespecífica sem alarme",
+      "front": "Lombalgia mecânica há cinco dias, sem febre, trauma, déficit neurológico ou alteração de esfíncteres, com pedido de ressonância hoje. Qual resposta cabe?",
+      "answer": "Explicar sinais de alerta, orientar atividade e reavaliar se persistir.",
+      "why": "Não há sinal de alarme, então o início é clínico, com reavaliação se persistir.",
+      "decisive": "Não há red flags nem déficit descritos.",
+      "rule": "Lombalgia aguda sem alarme costuma começar por manejo clínico e seguimento.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 152 — Volume 08",
+      "source": {
+        "title": "Ministério da Saúde, Atenção Primária à Saúde",
+        "url": "https://www.gov.br/saude/pt-br/composicao/saps/atencao-primaria-a-saude"
+      }
+    },
+    {
+      "id": "fc-c157",
+      "caseId": 157,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Violência por parceiro íntimo",
+      "front": "Relato de agressões do companheiro e medo de voltar para casa; ele espera do lado de fora e hoje não há ferimento grave. Qual é a prioridade?",
+      "answer": "Conversar em privacidade, avaliar risco imediato e construir plano seguro.",
+      "why": "Há medo concreto da volta ao domicílio, e a conversa precisa ocorrer em privacidade.",
+      "decisive": "A revelação inclui medo concreto da volta ao domicílio.",
+      "rule": "Violência exige privacidade e plano de segurança, não confronto precipitado.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 157 — Volume 08",
+      "source": {
+        "title": "Ministério da Saúde, Viva: Vigilância de Violências e Acidentes",
+        "url": "https://www.gov.br/saude/pt-br/composicao/svsa/vigilancia-de-doencas-cronicas-nao-transmissiveis/vigilancia-de-violencias-e-acidentes"
+      }
+    },
+    {
+      "id": "fc-c159",
+      "caseId": 159,
+      "volume": 8,
+      "area": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "topic": "Resultado de exame crítico e seguimento",
+      "front": "O laudo mostra potássio muito elevado, com alerta do laboratório, e a equipe ainda não viu o resultado. O que é prioritário?",
+      "answer": "Comunicar o resultado crítico e garantir o retorno para conduta.",
+      "why": "Resultado crítico pode exigir decisão antes da consulta marcada.",
+      "decisive": "Resultado crítico pode exigir decisão antes da consulta agendada.",
+      "rule": "Exame crítico precisa de ciclo fechado: receber, comunicar, agir e registrar.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 159 — Volume 08",
+      "source": {
+        "title": "Ministério da Saúde, Atenção Primária à Saúde",
+        "url": "https://www.gov.br/saude/pt-br/composicao/saps/atencao-primaria-a-saude"
+      }
+    },
+    {
+      "id": "fc-c161",
+      "caseId": 161,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Exposição ocupacional ao HIV",
+      "front": "Acidente com agulha há quatro horas, paciente-fonte com HIV e carga viral detectável, teste basal negativo e sem profilaxia pré-exposição. Qual é a conduta para o HIV?",
+      "answer": "PEP com tenofovir, lamivudina e dolutegravir por 28 dias.",
+      "why": "As quatro horas ainda estão dentro das 72 horas em que a profilaxia pode começar.",
+      "decisive": "Exposição percutânea de risco + 4 horas desde o acidente + teste basal negativo.",
+      "rule": "Na PEP, guarde duas janelas: início em até 72 horas, idealmente imediato; curso de 28 dias.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 161 — Volume 09",
+      "source": {
+        "title": "Ministério da Saúde, profilaxia pós-exposição ao HIV",
+        "url": "https://www.gov.br/aids/pt-br/assuntos/prevencao-combinada/pep-profilaxia-pos-exposicao-ao-hiv/pep"
+      }
+    },
+    {
+      "id": "fc-c163",
+      "caseId": 163,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Profilaxia antirrábica",
+      "front": "Acordou com um morcego no quarto e um arranhão na mão; o animal fugiu e não poderá ser analisado. Qual é a conduta?",
+      "answer": "Lavar ferida e iniciar vacina e imunoglobulina antirrábica indicadas.",
+      "why": "Houve contato com morcego e lesão, sem chance de observar ou testar o animal.",
+      "decisive": "Contato com morcego e lesão na mão, sem possibilidade de teste do animal.",
+      "rule": "Na exposição a morcego, nunca transponha automaticamente a regra de observação de cães.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 163 — Volume 09",
+      "source": {
+        "title": "Ministério da Saúde, Raiva e Profilaxia Pós-Exposição",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/r/raiva"
+      }
+    },
+    {
+      "id": "fc-c165",
+      "caseId": 165,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Incidência acumulada",
+      "front": "Em 2.000 pessoas inicialmente livres da doença, surgiram 40 casos novos em um ano, sem perdas. Qual foi a incidência acumulada?",
+      "answer": "2% em um ano.",
+      "why": "A conta divide os casos novos pela população que estava em risco no início do período.",
+      "decisive": "O numerador contém casos novos; o denominador é a população inicialmente em risco.",
+      "rule": "Incidência acumulada = casos novos ÷ população inicial em risco, no período.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 165 — Volume 09",
+      "source": {
+        "title": "CDC, Principles of Epidemiology in Public Health Practice",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    },
+    {
+      "id": "fc-c167",
+      "caseId": 167,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Sensibilidade diagnóstica",
+      "front": "Entre 100 pessoas com a doença, o teste foi positivo em 92 e negativo em oito. Que propriedade isso estima?",
+      "answer": "Sensibilidade de 92%.",
+      "why": "A conta olha apenas quem tinha a doença e vê a fração que testou positivo.",
+      "decisive": "A população descrita contém apenas pessoas com a doença.",
+      "rule": "Sensibilidade mede a fração dos doentes que testa positivo.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 167 — Volume 09",
+      "source": {
+        "title": "CDC, Principles of Epidemiology in Public Health Practice",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    },
+    {
+      "id": "fc-c168",
+      "caseId": 168,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Especificidade diagnóstica",
+      "front": "Entre 200 pessoas sem a doença, 180 testes foram negativos e 20 foram positivos. Qual propriedade é diretamente estimável?",
+      "answer": "Especificidade de 90%.",
+      "why": "A conta olha apenas quem não tinha a doença e vê a fração que testou negativo.",
+      "decisive": "A amostra descrita contém apenas pessoas sem a doença.",
+      "rule": "Especificidade mede a fração dos não doentes que testa negativo.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 168 — Volume 09",
+      "source": {
+        "title": "CDC, Principles of Epidemiology in Public Health Practice",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    },
+    {
+      "id": "fc-c169",
+      "caseId": 169,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Valor preditivo positivo",
+      "front": "De 100 testes positivos, 25 foram confirmados e 75 não tinham a doença. Qual é o valor preditivo positivo?",
+      "answer": "25%.",
+      "why": "A conta parte de quem testou positivo e vê quantos realmente tinham a doença.",
+      "decisive": "A pergunta condiciona ao teste positivo, não ao estado de doença.",
+      "rule": "VPP responde: entre os positivos, quantos realmente têm a doença?",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 169 — Volume 09",
+      "source": {
+        "title": "CDC, Principles of Epidemiology in Public Health Practice",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    },
+    {
+      "id": "fc-c170",
+      "caseId": 170,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Redução absoluta de risco e NNT",
+      "front": "Em um ano, o desfecho ocorreu em 10% do grupo controle e em 5% dos tratados, com grupos comparáveis e seguimento completo. Qual é o número necessário para tratar e evitar um evento?",
+      "answer": "20.",
+      "why": "O cálculo usa a diferença absoluta entre esses riscos, no horizonte de um ano.",
+      "decisive": "O NNT usa a diferença absoluta de riscos, expressa como proporção.",
+      "rule": "NNT = 1 ÷ redução absoluta de risco; informe o horizonte temporal.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 170 — Volume 09",
+      "source": {
+        "title": "Cochrane, Understanding Health Research",
+        "url": "https://www.cochrane.org/about-us/evidence-based-health-care"
+      }
+    },
+    {
+      "id": "fc-c171",
+      "caseId": 171,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Confundimento em estudo observacional",
+      "front": "Um estudo achou associação entre café e câncer de pulmão, e quem bebia café fumava mais. Qual ameaça à interpretação causal é a mais imediata?",
+      "answer": "Tabagismo como fator de confundimento.",
+      "why": "O fumo se associa ao café e é causa conhecida do desfecho.",
+      "decisive": "Fumo se associa à exposição e é causa conhecida do desfecho.",
+      "rule": "Confundidor se relaciona com a exposição e o desfecho, sem ser intermediário causal.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 171 — Volume 09",
+      "source": {
+        "title": "CDC, Principles of Epidemiology in Public Health Practice",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    },
+    {
+      "id": "fc-c173",
+      "caseId": 173,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Taxa de ataque em surto",
+      "front": "Das 150 pessoas que comeram a sobremesa, 60 adoeceram em 24 horas, sem perdas. Qual foi a taxa de ataque nesse grupo?",
+      "answer": "40%.",
+      "why": "O denominador é o grupo que consumiu o alimento em investigação.",
+      "decisive": "O denominador é o grupo que consumiu o alimento em investigação.",
+      "rule": "Em surto, taxa de ataque = novos casos ÷ pessoas expostas/em risco.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 173 — Volume 09",
+      "source": {
+        "title": "CDC, Principles of Epidemiology in Public Health Practice",
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/SS1978.pdf"
+      }
+    },
+    {
+      "id": "fc-c174",
+      "caseId": 174,
+      "volume": 9,
+      "area": "SAÚDE COLETIVA",
+      "topic": "Notificação de suspeita de sarampo",
+      "front": "Febre, exantema e tosse depois de uma região com transmissão de sarampo; a sorologia foi colhida e o resultado sai em alguns dias. Que ação de vigilância ocorre agora?",
+      "answer": "Notificar a suspeita e iniciar medidas de controle sem esperar exame.",
+      "why": "A suspeita clínica e epidemiológica já aciona a vigilância.",
+      "decisive": "O conjunto clínico e epidemiológico justifica ação imediata.",
+      "rule": "Em agravos de notificação imediata, suspeita já aciona vigilância.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 174 — Volume 09",
+      "source": {
+        "title": "Ministério da Saúde, Sistema de Informação de Agravos de Notificação",
+        "url": "https://www.gov.br/saude/pt-br/composicao/svsa/sistemas-de-informacao/sinan"
+      }
+    },
+    {
+      "id": "fc-c181",
+      "caseId": 181,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Risco iminente de suicídio",
+      "front": "Diz que pretende morrer agora, com plano definido e acesso imediato aos meios, está orientado e aceita conversar. Qual é a conduta inicial?",
+      "answer": "Manter supervisão e providenciar avaliação urgente em ambiente seguro.",
+      "why": "Intenção atual, plano e meios acessíveis pedem resposta imediata em ambiente seguro.",
+      "decisive": "Intenção atual + plano definido + meios acessíveis configuram risco alto e exigem resposta imediata.",
+      "rule": "Na avaliação de risco, plano, intenção e acesso aos meios mudam imediatamente o nível de cuidado.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 181 — Volume 10",
+      "source": {
+        "title": "Ministério da Saúde, prevenção do suicídio",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/suicidio-prevencao/suicidio-prevencao"
+      }
+    },
+    {
+      "id": "fc-c182",
+      "caseId": 182,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Suspeita de transtorno bipolar",
+      "front": "Tristeza e anedonia há um mês; antes, passou uma semana quase sem dormir, com energia elevada, gastos excessivos e prejuízo no trabalho. O que investigar antes de prescrever?",
+      "answer": "Investigar mania prévia antes de definir antidepressivo e seguimento.",
+      "why": "Houve um período de mais energia, menos sono e prejuízo funcional, e isso muda a hipótese.",
+      "decisive": "O episódio prévio de energia elevada e redução da necessidade de sono com prejuízo funcional altera a hipótese.",
+      "rule": "Em episódio depressivo, pergunte por fases anteriores de energia e sono alterados.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 182 — Volume 10",
+      "source": {
+        "title": "NICE, Bipolar Disorder Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c184",
+      "caseId": 184,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Abstinência alcoólica",
+      "front": "Uso diário intenso de álcool, parou há 20 horas e agora tem tremor, sudorese, taquicardia e ansiedade; está orientado e não há outra causa evidente. Qual é a abordagem farmacológica de primeira linha, quando indicada?",
+      "answer": "Diazepam monitorado e suporte.",
+      "why": "A síndrome autonômica surgiu depois da cessação recente do álcool.",
+      "decisive": "A síndrome autonômica apareceu após cessação recente do álcool.",
+      "rule": "Na abstinência alcoólica, avalie gravidade e previna progressão para convulsão ou delirium.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 184 — Volume 10",
+      "source": {
+        "title": "OMS mhGAP, Management of Alcohol Withdrawal",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/alcohol-use-disorders/management-of-alcohol-withdrawal"
+      }
+    },
+    {
+      "id": "fc-c185",
+      "caseId": 185,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Intoxicação por opioide",
+      "front": "Encontrado sonolento, com seis incursões respiratórias por minuto e pupilas puntiformes, e há suspeita de opioide. Qual é a conduta imediata?",
+      "answer": "Ventilar, aplicar naloxona e observar recorrência da depressão respiratória.",
+      "why": "A depressão respiratória, nesse contexto, ameaça a vida.",
+      "decisive": "Depressão respiratória com suspeita de opioide ameaça a vida.",
+      "rule": "Na overdose por opioide, o alvo inicial é respirar adequadamente.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 185 — Volume 10",
+      "source": {
+        "title": "OMS, mhGAP Intervention Guide v2.0",
+        "url": "https://iris.who.int/bitstream/handle/10665/250239/9789241549790-eng.pdf"
+      }
+    },
+    {
+      "id": "fc-c186",
+      "caseId": 186,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Delirium no idoso",
+      "front": "Idosa internada, antes orientada, agora desatenta e alternando sonolência e agitação, com medicamentos novos e febre. Qual é a abordagem?",
+      "answer": "Pesquisar causa aguda, revisar fármacos e garantir segurança ambiental.",
+      "why": "O início foi agudo, o quadro flutua e a atenção está comprometida.",
+      "decisive": "Início agudo, flutuação e déficit de atenção caracterizam delirium.",
+      "rule": "No delirium, a pergunta mais útil é: o que mudou para o paciente hoje?",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 186 — Volume 10",
+      "source": {
+        "title": "NICE, Delirium Prevention, Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/cg103/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c187",
+      "caseId": 187,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Psicose pós-parto",
+      "front": "Dez dias após o parto, quase não dorme, fala de modo desorganizado e diz ouvir vozes que mandam afastar o bebê. Qual é a conduta?",
+      "answer": "Garantir segurança de mãe e bebê e avaliação psiquiátrica urgente.",
+      "why": "Sintomas psicóticos de início agudo no puerpério pedem proteção imediata.",
+      "decisive": "Início agudo de sintomas psicóticos no puerpério pode representar psicose pós-parto.",
+      "rule": "Sintomas psicóticos pós-parto requerem resposta de emergência e segurança para ambos.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 187 — Volume 10",
+      "source": {
+        "title": "NICE, Antenatal and Postnatal Mental Health",
+        "url": "https://www.nice.org.uk/guidance/cg192/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c189",
+      "caseId": 189,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Transtorno alimentar com instabilidade",
+      "front": "Aos 17 anos, restrição alimentar importante, perda rápida de peso, frequência cardíaca de 38 bpm em repouso, tontura ao levantar e alterações eletrolíticas. Qual é a conduta?",
+      "answer": "Avaliar urgência clínica e estabilizar bradicardia e eletrólitos.",
+      "why": "Bradicardia marcada e distúrbio eletrolítico indicam risco clínico agudo.",
+      "decisive": "Bradicardia marcada e distúrbios eletrolíticos indicam risco clínico agudo.",
+      "rule": "Transtorno alimentar pode ser emergência médica mesmo antes de discutir diagnóstico psiquiátrico detalhado.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 189 — Volume 10",
+      "source": {
+        "title": "NICE, Eating Disorders: Recognition and Treatment",
+        "url": "https://www.nice.org.uk/guidance/NG69/chapter/recommendations"
+      }
+    },
+    {
+      "id": "fc-c191",
+      "caseId": 191,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Depressão e avaliação de segurança",
+      "front": "Tristeza, perda de prazer e insônia há seis semanas, com a frase de que seria melhor não acordar, e ainda ninguém perguntou sobre plano. Qual é o próximo passo?",
+      "answer": "Perguntar diretamente sobre ideação, plano, meios e proteção.",
+      "why": "A frase sugere ideação e pede uma avaliação direta do risco.",
+      "decisive": "A frase sugere ideação passiva e pede avaliação mais precisa.",
+      "rule": "Falar de morte ou de não acordar exige avaliação direta de risco suicida.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 191 — Volume 10",
+      "source": {
+        "title": "NICE, Depression in Adults NG222",
+        "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c194",
+      "caseId": 194,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "Obsessão versus psicose",
+      "front": "Pensamentos repetidos de contaminação, reconhecidos como exagerados, e lavagem das mãos por uma hora para aliviar a ansiedade, sem vozes. Qual é a hipótese mais provável?",
+      "answer": "Transtorno obsessivo-compulsivo.",
+      "why": "O pensamento é intrusivo, reconhecido como excessivo, e o ritual tenta aliviar a ansiedade.",
+      "decisive": "Pensamento intrusivo reconhecido como excessivo leva a ritual.",
+      "rule": "No TOC, obsessões geram sofrimento e compulsões tentam neutralizá-lo.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 194 — Volume 10",
+      "source": {
+        "title": "NICE, Obsessive-Compulsive Disorder CG31",
+        "url": "https://www.nice.org.uk/guidance/cg31/chapter/Recommendations"
+      }
+    },
+    {
+      "id": "fc-c198",
+      "caseId": 198,
+      "volume": 10,
+      "area": "SAÚDE MENTAL",
+      "topic": "TDAH e história do desenvolvimento",
+      "front": "Pede estimulante depois de ver conteúdo sobre TDAH; a distração é recente, com trabalho noturno e sono pior. Que informação pesa mais na avaliação?",
+      "answer": "Verificar sintomas desde a infância e prejuízo em mais de um contexto.",
+      "why": "O início é recente e o sono piorou, então a história desde a infância decide o diagnóstico.",
+      "decisive": "Início recente e privação de sono pedem diferencial.",
+      "rule": "TDAH exige história longitudinal; distração recente isolada não basta.",
+      "needsClinicalReview": false,
+      "reviewLabel": "Rever caso 198 — Volume 10",
+      "source": {
+        "title": "NICE, Attention Deficit Hyperactivity Disorder NG87",
+        "url": "https://www.nice.org.uk/guidance/ng87/chapter/Recommendations"
+      }
+    }
+  ]
+}
